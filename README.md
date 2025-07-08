@@ -1,2 +1,3 @@
 # Simon-game
-Simon Game using frontend technologies - (html,css,js )
+Simon Game using frontend technologies - ( HTML , CSS , JS )
+    {JS - event handling , DOM manipulation}
